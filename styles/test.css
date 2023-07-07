@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: aquamarine;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    height: 500px;
+    border: 2px black solid;
+}
+.box{
+    padding: 20px;
+    background-color:red;
+    width: 110px;
+}
+.box2{
+    background-color: green;
+    }
+.box3{
+    background-color: blue;
+}
